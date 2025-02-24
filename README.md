@@ -1,10 +1,7 @@
 # TDAPW User Manual Update
 
-* The TDAPW User Manual has been migrated to the NAS.
+Due to security protocols, access to the previous link https://tdap-help.github.io/TDAPW/ has been disabled. 
 
-* The latest access link can be obtained from tdapw_release.
+The manual has now been migrated to NAS, and the latest access link can be obtained from tdapw_release.
 
-* For any further inquiries, please contact: tdap[at]iphy.ac.cn.
-
-
-
+For any further inquiries, please contact: tdap[at]iphy.ac.cn.
